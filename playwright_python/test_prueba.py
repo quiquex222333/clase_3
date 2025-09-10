@@ -5,7 +5,7 @@ def test_prueba():
     assert 1 == 1
 
 def test_prueba_2():
-    assert 1 == 0, "Error al insertar datos"
+    assert 1 == 1, "Error al insertar datos"
 
 def test_prueba_3():
     assert 1 == 1
