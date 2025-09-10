@@ -17,4 +17,4 @@ def test_search_function(page: Page):
     page.get_by_role("button", name="Search").click()
 
     # Esperar que aparezcan resultados (verificar que hay un heading o algún video visible)
-    expect(page.get_by_role("link").first).to_be_visible()
+    expect(page.get_by_role("link").first).to_be_visible()  
