@@ -1,7 +1,7 @@
 __pycache__
 .pytest_cache
 allure-results
-pytest_report.html
+
 .venv
 venv/
 assets
